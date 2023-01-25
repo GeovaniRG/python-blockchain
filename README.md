@@ -1,5 +1,6 @@
 # python-blockchain
 Example of a simple blockchain implemented in Python
+(This was my first try implementing a simple blockchain) 
 
 This is a simple implementation of a blockchain, it includes basic functionalities such as adding blocks, checking if the chain is valid, and performing a proof of work.
 
