@@ -1,4 +1,4 @@
-# python-blockchain
+# Python-blockchain
 Example of a simple blockchain implemented in Python
 (This was my first try implementing a simple blockchain) 
 
